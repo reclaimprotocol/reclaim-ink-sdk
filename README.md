@@ -1,6 +1,12 @@
-# Implementation of the Reclaim Protocol in ink! for Aleph Zero.
+# Reclaim - Ink!
 
-## Contract
+## Deployments
+
+| Chain Name | Deployed address | Explorer Link |
+|:-----------|:-----------------|:--------------|
+| Aleph Testnet | 5FB2yCSyjJbKjMJXP8dgZ1kWa7Rin2x9afxzUbmRAaWEj43P | https://test.azero.dev/#/chainstate |
+
+## Environment
 
 Build
 
