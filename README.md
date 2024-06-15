@@ -2,7 +2,7 @@
 
 ## Deployments
 
-| Chain Name | Deployed address | Explorer Link |
+| Chain Name | Deployed Address | Explorer Link |
 |:-----------|:-----------------|:--------------|
 | Aleph Testnet | 5FB2yCSyjJbKjMJXP8dgZ1kWa7Rin2x9afxzUbmRAaWEj43P | https://alephzero-testnet.subscan.io/account/5FB2yCSyjJbKjMJXP8dgZ1kWa7Rin2x9afxzUbmRAaWEj43P |
 
