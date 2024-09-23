@@ -1,5 +1,8 @@
-# Reclaim - Ink SDK
-
+<div>
+    <div>
+        <img src="https://raw.githubusercontent.com/reclaimprotocol/.github/main/assets/banners/Ink-SDK.png"  />
+    </div>
+</div>
 ## Deployments
 
 | Chain Name | Deployed Address | Explorer Link |
