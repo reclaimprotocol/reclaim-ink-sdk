@@ -7,7 +7,7 @@
 
 | Chain Name | Deployed Address | Explorer Link |
 |:-----------|:-----------------|:--------------|
-| Aleph Testnet | 5FB2yCSyjJbKjMJXP8dgZ1kWa7Rin2x9afxzUbmRAaWEj43P | https://alephzero-testnet.subscan.io/account/5FB2yCSyjJbKjMJXP8dgZ1kWa7Rin2x9afxzUbmRAaWEj43P |
+| Aleph Testnet | 5CHcjaPFF8Rd4Bep42hbRb9gCmJBepfGLjkwoBFPy2xctSgh | [Link](https://alephzero-testnet.subscan.io/account/5CHcjaPFF8Rd4Bep42hbRb9gCmJBepfGLjkwoBFPy2xctSgh?tab=extrinsic) |
 
 ## Environment
 
